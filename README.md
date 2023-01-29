@@ -5,5 +5,5 @@
 # Bebby Ka’afiyan Farhan
 
 # notepad program
-Element icon dan image menggunakan absolut path dikarenakan relative path jadi error sehingga penempatan file perlu diubah menyesuaikan path dibawah ini :
+Element icon dan image menggunakan absolut path dikarenakan relative path jadi error sehingga penempatan project appkasir2 perlu diubah menyesuaikan path dibawah ini :
 # C:\Users\Acer SPIN\OneDrive\Dokumen\NetBeansProjects
